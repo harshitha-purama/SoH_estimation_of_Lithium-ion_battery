@@ -1,8 +1,5 @@
 # SoH_estimation_of_Lithium-ion_battery
 # 🔋 Li-ion Battery State of Health (SoH) Prediction
-
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Li-ion+Battery+SoH+Prediction) <!-- Optional banner. Replace URL -->
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -40,18 +37,9 @@ Battery Samples:
 
 ---
 
-### 🧮 SoH Calculation
+├── SoH_estimation_with_LSTM.ipynb   # Main Jupyter notebook with full workflow
+├── refined_dataset/                 # Processed CSVs (e.g., B05_discharge_soh.csv)
+├── 50%/                             # Models and plots from 50% training split
+├── 70%/                             # Models and plots from 70% training split
 
-\[
-\text{SoH} = \frac{Q_m}{Q_{nom}}
-\]
-
-Where:
-
-- \( Q_m \): Discharge capacity at cycle *m*
-- \( Q_{nom} \): Initial capacity (**2 Ah**)
-
----
-
-## 🛠️ Repository Structure
 
