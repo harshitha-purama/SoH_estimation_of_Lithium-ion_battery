@@ -33,13 +33,4 @@ Battery Samples:
 
 - **Group A (Normal Temp)**: B05, B07, B18  
 - **Group B (High Power)**: B33, B34  
-- **Group C (Low Temp)**: B46, B47, B48  
-
----
-
-├── SoH_estimation_with_LSTM.ipynb   # Main Jupyter notebook with full workflow
-├── refined_dataset/                 # Processed CSVs (e.g., B05_discharge_soh.csv)
-├── 50%/                             # Models and plots from 50% training split
-├── 70%/                             # Models and plots from 70% training split
-
-
+- **Group C (Low Temp)**: B46, B47, B48 
