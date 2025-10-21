@@ -1,9 +1,5 @@
 # SoH_estimation_of_Lithium-ion_battery
 # 🔋 Li-ion Battery State of Health (SoH) Prediction
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-
----
 
 ## 🚀 Project Overview
 
