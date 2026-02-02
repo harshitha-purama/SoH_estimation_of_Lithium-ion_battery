@@ -1,18 +1,18 @@
 # SoH_estimation_of_Lithium-ion_battery
-# 🔋 Li-ion Battery State of Health (SoH) Prediction
+# Li-ion Battery State of Health (SoH) Prediction
 
-## 🚀 Project Overview
+##  Project Overview
 
 This repository contains code for predicting the **State of Health (SoH)** of Li-ion batteries using:
 
-- ✅ **Linear Regression** (baseline)
-- ✅ **Long Short-Term Memory (LSTM)** Recurrent Neural Network (RNN)
+- **Linear Regression** (baseline)
+- **Long Short-Term Memory (LSTM)** Recurrent Neural Network (RNN)
 
 The project utilizes the **NASA PCoE Dataset** to analyze degradation trends under different experimental conditions.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Implement and compare SoH prediction using **Linear Regression** and **LSTM**
 - Train and evaluate models using both **50%** and **70%** data splits
@@ -21,7 +21,7 @@ The project utilizes the **NASA PCoE Dataset** to analyze degradation trends und
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 **Data Source**: NASA Prognostics Center of Excellence (PCoE)
 
